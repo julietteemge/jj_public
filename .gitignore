@@ -1,4 +1,2 @@
-# ignore this single file
-git_ignored
-temp.txt
+# List the files or wildcards to exclude from the Git repository
 
