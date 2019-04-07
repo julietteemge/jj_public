@@ -12,5 +12,5 @@ emp_1.Employee('Juliette', 'Emge', 100,000)
 emp_2.Employee('Joe', 'Fisher', 200,000)
 emp_3.Employee('Jade', 'Fisher', 202,000)
 
-emp_1.fullname()
+print(emp_1.fullname())
 print(Employee.fullname(emp_1))
